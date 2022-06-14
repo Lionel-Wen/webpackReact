@@ -1,0 +1,24 @@
+.test {
+    color: blue;
+}
+
+.png1 {
+    height: 100px;
+    width: 100px;
+    background-size: 100% 100%;
+}
+
+.imageBox {
+    width: 200px;
+    height: 300px;
+}
+
+.png2 {
+    width: 200px;
+    height: 300px;
+}
+
+.qq {
+    width: 30px;
+    height: 30px;
+}
